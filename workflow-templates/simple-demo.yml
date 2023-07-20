@@ -5,7 +5,7 @@ on:
       - master
 jobs:
   build-test-deploy:
-    uses: poc-github-framework/java-workflow/.github/workflows/framework.yml@main
+    uses: ${{ vars.WORKFLOW_PATH }}
     permissions:
       checks: write
       pull-requests: write
