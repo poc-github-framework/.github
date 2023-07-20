@@ -1,6 +1,6 @@
 {
     "name": "Simple Workflow",
-    "description": "Octo Organization CI starter workflow.",
+    "description": "CI starter workflow for Java With Maven.",
     "iconName": "maven",
     "categories": [
         "Java"
