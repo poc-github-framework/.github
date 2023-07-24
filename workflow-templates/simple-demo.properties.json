@@ -1,5 +1,5 @@
 {
-    "name": "Simple Workflow",
+    "name": "EQH Simple Workflow",
     "description": "CI starter workflow for Java With Maven.",
     "iconName": "maven",
     "categories": [
